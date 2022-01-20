@@ -1,2 +1,2 @@
 # iTMLE
-This repository implements the iterative version of one-step TMLE. 
+This repository contains the simulation code for the ``iterative version of one-step TMLE (iTMLE)."
